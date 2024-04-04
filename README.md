@@ -66,6 +66,8 @@ Si se selecciona la opción 5, la variable salir se establece como true para sal
 
 <p>Este programa simula el proceso de atención de clientes en un banco utilizando una cola para mantener el orden de llegada de los clientes y realizar las operaciones correspondientes según la opción seleccionada por el usuario.</p>
 
+[![Captura-de-pantalla-2024-04-03-223843.png](https://i.postimg.cc/d382bwcT/Captura-de-pantalla-2024-04-03-223843.png)](https://postimg.cc/MfpfRkTW)
+
 
 
 
