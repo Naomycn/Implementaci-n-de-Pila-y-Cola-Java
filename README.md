@@ -12,11 +12,11 @@ Se importan las clases Scanner y Stack del paquete java.util.</p>
 <p><em><string>Clase Pila_PlatoSucios:</string></em>
 Esta es la clase principal que contiene el método main donde comienza la ejecución del programa.</p>
 
-<p><h2><em><string>Método main:</string></em></h2>
+<p><em><string>Método main:</string></em>
 Se crea una pila llamada pilaPlatos para almacenar los platos sucios.
 Se crea un objeto Scanner para leer la entrada del usuario desde la consola.
 Se inicializa la variable salir como false para controlar la salida del bucle while.</p>
-<p><h2><em><string>Bucle while:</string></em></h2>
+<p><em><string>Bucle while:</string></em>
 El bucle se ejecuta mientras salir sea false.
 Se muestran las opciones de menú para que el usuario elija.
 Se lee la opción ingresada por el usuario utilizando el objeto Scanner.
