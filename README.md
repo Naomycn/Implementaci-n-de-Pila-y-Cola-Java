@@ -7,18 +7,14 @@
 <h2>Explicación detallada del código:</h2>
 
 <h2><em><string>Paquete y clases importadas:</string></em></h2>
-
 <p>El código está en un paquete llamado "pila".
 Se importan las clases Scanner y Stack del paquete java.util.</p>
-
 <h2><em><string>Clase Pila_PlatoSucios:</string></em></h2>
 <p>Esta es la clase principal que contiene el método main donde comienza la ejecución del programa.</p>
-
 <h2><em><string>Método main:</string></em></h2>
 <p>Se crea una pila llamada pilaPlatos para almacenar los platos sucios.
 Se crea un objeto Scanner para leer la entrada del usuario desde la consola.
 Se inicializa la variable salir como false para controlar la salida del bucle while.</p>
-
 <h2><em><string>Bucle while:</string></em></h2>
 <p>El bucle se ejecuta mientras salir sea false.
 Se muestran las opciones de menú para que el usuario elija.
