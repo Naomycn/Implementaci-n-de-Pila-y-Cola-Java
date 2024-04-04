@@ -32,6 +32,7 @@ Si se selecciona la opción 6, la variable salir se establece como true para sal
 
 <p><em><string>Salida del bucle while:</string></em> Cuando la variable salir se establece como true, se imprime "¡Hasta Luego!" y el programa termina.
 <p>Este programa simula el proceso de lavado de platos utilizando una pila para almacenar los platos sucios y realizar las operaciones correspondientes según la opción seleccionada por el usuario.</p>
+
 [![Captura-de-pantalla-2024-04-03-223021.png](https://i.postimg.cc/hG2qPvXB/Captura-de-pantalla-2024-04-03-223021.png)](https://postimg.cc/674PM9Vj) 
 
 
