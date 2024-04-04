@@ -8,8 +8,10 @@
 
 <p><h2><em><string>Paquete y clases importadas: </string></em></h2>El código está en un paquete llamado "pila".
 Se importan las clases Scanner y Stack del paquete java.util.</p>
+
 <p><h2><em><string>Clase Pila_PlatoSucios:</string></em></h2>
 Esta es la clase principal que contiene el método main donde comienza la ejecución del programa.</p>
+
 <p><h2><em><string>Método main:</string></em></h2>
 Se crea una pila llamada pilaPlatos para almacenar los platos sucios.
 Se crea un objeto Scanner para leer la entrada del usuario desde la consola.
