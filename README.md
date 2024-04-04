@@ -16,11 +16,23 @@ Esta es la clase principal que contiene el método main donde comienza la ejecuc
 Se crea una pila llamada pilaPlatos para almacenar los platos sucios.
 Se crea un objeto Scanner para leer la entrada del usuario desde la consola.
 Se inicializa la variable salir como false para controlar la salida del bucle while.</p>
-<p><em><string>Bucle while:</string></em>
+
 El bucle se ejecuta mientras salir sea false.
 Se muestran las opciones de menú para que el usuario elija.
 Se lee la opción ingresada por el usuario utilizando el objeto Scanner.
 Dependiendo de la opción elegida por el usuario, se ejecuta un bloque de código específico dentro del switch.</p>
+
+<p><em><string>Bloque switch:</string></em> Cada caso dentro del switch representa una opción de menú.
+Para cada caso, se realiza una operación específica como agregar un plato sucio a la pila, lavar el plato superior de la pila, ver el plato superior, verificar si la pila está vacía o buscar un plato en la pila.
+Si se selecciona la opción 6, la variable salir se establece como true para salir del bucle while.</p>
+
+<p><em><string>Operaciones en la pila:</string></em> Se utilizan métodos de la clase Stack para realizar operaciones en la pila, como push para agregar un plato sucio, pop para lavar el plato superior, isEmpty para verificar si la pila está vacía y search para buscar un plato en la pila. </p>
+
+<p><em><string>Mensajes al usuario:</string></em> Se muestran mensajes informativos al usuario en función de las operaciones realizadas.</p>
+
+<p><em><string>Salida del bucle while:</string></em> Cuando la variable salir se establece como true, se imprime "¡Hasta Luego!" y el programa termina.
+<p>Este programa simula el proceso de lavado de platos utilizando una pila para almacenar los platos sucios y realizar las operaciones correspondientes según la opción seleccionada por el usuario.</p>
+
 
 
 
