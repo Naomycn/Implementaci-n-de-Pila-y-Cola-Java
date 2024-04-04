@@ -6,7 +6,7 @@
 <p>Este código Java implementa un programa simple para simular el lavado de platos utilizando una pila (stack).</p>
 <h2>Explicación detallada del código:</h2>
 
-<h2><em><string>Paquete y clases importadas: </string></em></h2><p>El código está en un paquete llamado "pila".
+<p><h2><em><string>Paquete y clases importadas: </string></em></h2>El código está en un paquete llamado "pila".
 Se importan las clases Scanner y Stack del paquete java.util.</p>
 <h2><em><string>Clase Pila_PlatoSucios:</string></em></h2>
 <p>Esta es la clase principal que contiene el método main donde comienza la ejecución del programa.</p>
